@@ -52,6 +52,10 @@ git push -u origin gh-pages
 
 [测试书籍连接](https://dragonknightofbreeze.github.io/test_gitbook/)
 
+[测试书籍连接（中文）(https://dragonknightofbreeze.github.io/test_gitbook/zh-hans)
+
+[测试书籍连接（英文）(https://dragonknightofbreeze.github.io/test_gitbook/en)
+
 ## 参考链接
 
 [使用 Gitbook 打造你的电子书 - 知乎](https://zhuanlan.zhihu.com/p/34946169)

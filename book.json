@@ -1,0 +1,12 @@
+{
+  "root": ".",
+  "title": "GitBook-Study",
+  "description": "GitBook Study by DK Breeze.",
+  "author": "DK Breeze",
+  "language": "zh-hans",
+  "links": {
+	"sidebar": {
+      "Github": "https://github.com/DragonKnightOfBreeze"
+	}
+  }
+}

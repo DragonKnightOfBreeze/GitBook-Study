@@ -52,11 +52,12 @@ git push -u origin master
 * 因此，一般需要两个仓库，一个仓库用于存储包括文档在内的项目文件，另一个仓库用于存储生成后的书籍文件。
 * 也可以本地在_book目录下新建另外一个git仓库，让远程的gh-pages分支专门存储生成后的书籍文件。
 
-[测试书籍连接](https://dragonknightofbreeze.github.io/test_gitbook/)
+测试链接：
 
-[测试书籍连接（中文）(https://dragonknightofbreeze.github.io/test_gitbook/zh-hans)
-
-[测试书籍连接（英文）(https://dragonknightofbreeze.github.io/test_gitbook/en)
+* [测试书籍项目地址](https://github.com/DragonKnightOfBreeze/test_gitbook)
+* [测试书籍链接](https://dragonknightofbreeze.github.io/test_gitbook/)
+* [测试书籍链接（中文）](https://dragonknightofbreeze.github.io/test_gitbook/zh-hans)
+* [测试书籍链接（英文）](https://dragonknightofbreeze.github.io/test_gitbook/en)
 
 ## 参考链接
 

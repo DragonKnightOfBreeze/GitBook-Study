@@ -15,7 +15,7 @@ Github：
 
 ```
 创建一个仓库<name>（<name>是仓库名）
-建立一个名为gh-pages的分支
+建立一个名为gh-pages的分支（也可以直接使用master，需要在Settings页面中配置）
 只要gh-pages中的内容符合一个静态站点要求，就可以在如下地址中进行访问：
 https://<username>.github.io/<name>
 ```
@@ -44,11 +44,13 @@ git add .
 git commit -m "init"
 git remote add origin <git_url>
 git push -u origin master
-git checkout gh-pages
-git push -u origin gh-pages
 ```
 
-注意：gh-pages分支使用的是_book目录下的html文件，而非仓库目录下的md文件！
+注意：
+ 
+* gh-pages分支使用的是_book目录下的html文件，而非仓库目录下的md文件！
+* 因此，一般需要两个仓库，一个仓库用于存储包括文档在内的项目文件，另一个仓库用于存储生成后的书籍文件。
+* 也可以本地在_book目录下新建另外一个git仓库，让远程的gh-pages分支专门存储生成后的书籍文件。
 
 [测试书籍连接](https://dragonknightofbreeze.github.io/test_gitbook/)
 

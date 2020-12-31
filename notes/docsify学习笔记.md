@@ -157,4 +157,6 @@ GitHub Pages 支持从三个地方读取文件
 
 [docsify](https://docsify.js.org/#/zh-cn/)
 
+[基于Github Pages + docsify，我花了半天就搭建好了个人博客_Java成魔之路-CSDN博客](https://blog.csdn.net/m0_37965018/article/details/103841362)
+
 [MPE插件文档的参考模版](https://github.com/shd101wyy/markdown-preview-enhanced/tree/master/docs)

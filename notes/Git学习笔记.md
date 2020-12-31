@@ -5,7 +5,7 @@
 1. 安装和配置git
 
 ```
-# 下载Git并安装，
+# 下载Git并安装
 # 打开命令行，确认git安装成功
 git --version
 # 设置git全局用户名和邮箱
@@ -31,11 +31,11 @@ git commit -m "initialize rpository"
 * 登录github网站
 * 创建远程的github仓库
 
-![](Git学习笔记.assets/5c8fb136.png)
+![](assets/5c8fb136.png)
 
-![](Git学习笔记.assets/2660f0e3.png)
+![](assets/2660f0e3.png)
 
-![](Git学习笔记.assets/e81d4e7a.png)
+![](assets/e81d4e7a.png)
 
 4. 为本地git仓库绑定远程的github仓库
 
@@ -46,13 +46,13 @@ git remote add origin <url>
 git push -u origin master
 ```
 
-5. 将本地的更改同步到远程
+5. 将本地的更改同步到远程（每次本地仓库有了更改后）
 
 ```
 # 添加文件
 git add .
 # 提交文件，-m参数指定了提交信息
-git commit -m "initialize rpository"
+git commit -m "initialize repository"
 # 推送文件
 git push origin
 ```
@@ -60,3 +60,5 @@ git push origin
 ## 参考链接
 
 [Git 教程 | 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
+
+[Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)

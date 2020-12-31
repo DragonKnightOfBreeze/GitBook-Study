@@ -1,5 +1,5 @@
 # Summary
 
-GitBook Study
+Docsify Study
 
 > Hello world

@@ -78,6 +78,10 @@ git commit -m "fixed untracked files"
 git reset --soft <revision_number>
 ```
 
+## 注意事项
+
+* `_navbar.md`、`_sidebar.md`、`_coverpage.md`中的链接是相对于`docs`目录的
+
 ## 参考链接
 
 [Git 教程 | 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)

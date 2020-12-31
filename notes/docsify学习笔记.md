@@ -158,6 +158,10 @@ GitHub Pages 支持从三个地方读取文件
 * `_sidebar.md`等特殊Markdown文件中的链接地址是相对于`docs`目录的
 * `_coverpage.md`中最多可以有2个链接，作为下方的按钮，之间不能有空行
 
+## 测试链接
+
+* [测试书籍链接](https://dragonknightofbreeze.github.io/Github-Study/#/)
+
 ## 参考链接
 
 [docsify](https://docsify.js.org/#/zh-cn/)

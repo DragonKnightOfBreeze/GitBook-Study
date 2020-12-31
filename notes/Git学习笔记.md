@@ -31,17 +31,21 @@ git commit -m "initialize rpository"
 * 登录github网站
 * 创建远程的github仓库
 
-![](/notes/assets/5c8fb136.png)
+![](assets/5c8fb136.png)
 
-![](/notes/assets/2660f0e3.png)
+![](assets/2660f0e3.png)
 
-![](/notes/assets/e81d4e7a.png)
+![](assets/e81d4e7a.png)
 
 4. 为本地git仓库绑定远程的github仓库
 
+需要指定url，这里使用https链接，可以从下图中看到
+
+![](assets/ea98f623.png)
+
+![](assets/d64805e3.png)
+
 ```
-# 需要指定url，这里使用https链接，可以从上面的截图中看到
-# 图中为https://github.com/DragonKnightOfBreeze/Test.git
 git remote add origin <url>
 git push -u origin master
 ```

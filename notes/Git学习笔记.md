@@ -57,6 +57,23 @@ git commit -m "initialize repository"
 git push origin
 ```
 
+## 解决方案
+
+忽略已提交的文件
+
+```
+# 删除追踪状态
+git rm -r --cached .
+git add . 
+git commit -m "fixed untracked files"
+```
+  
+取消提交
+
+```
+git reset --soft <revision_number>
+```
+
 ## 参考链接
 
 [Git 教程 | 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)

@@ -2,5 +2,5 @@
 
 > 这是我的文档
 
-[文档](README.md)
 [Github](https://github.com/DragonKnightOfBreeze/Github-Study)
+[开始阅读](zh-cn/README.md)

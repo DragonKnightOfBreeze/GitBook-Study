@@ -153,6 +153,11 @@ GitHub Pages 支持从三个地方读取文件
 
 可以将文档放在根目录下，然后选择 **master 分支** 作为文档目录。你需要在部署位置下放一个 `.nojekyll` 文件（比如 `/docs` 目录或者 gh-pages 分支）
 
+## 注意事项
+
+* `_sidebar.md`等特殊Markdown文件中的链接地址是相对于`docs`目录的
+* `_coverpage.md`中最多可以有2个链接，作为下方的按钮，之间不能有空行
+
 ## 参考链接
 
 [docsify](https://docsify.js.org/#/zh-cn/)

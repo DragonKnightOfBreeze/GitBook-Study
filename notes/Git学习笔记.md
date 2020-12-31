@@ -31,11 +31,11 @@ git commit -m "initialize rpository"
 * 登录github网站
 * 创建远程的github仓库
 
-![](assets/5c8fb136.png)
+![](/notes/assets/5c8fb136.png)
 
-![](assets/2660f0e3.png)
+![](/notes/assets/2660f0e3.png)
 
-![](assets/e81d4e7a.png)
+![](/notes/assets/e81d4e7a.png)
 
 4. 为本地git仓库绑定远程的github仓库
 
